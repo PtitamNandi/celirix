@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "410230636348",
+    "project_id": "celirix-3116a",
+    "storage_bucket": "celirix-3116a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410230636348:android:426fc05551f8a5aa09a839",
+        "android_client_info": {
+          "package_name": "com.example.celirix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410230636348-kv23b0fgjm5fu2rnhp451rqr4qtscvk7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCZnY84DSkBvcXjeeBA2KAUy1PYrTKQYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410230636348-kv23b0fgjm5fu2rnhp451rqr4qtscvk7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "410230636348-jr5pgfc0shc4mdd5scu4cuvlstfh8in9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.celirix"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
